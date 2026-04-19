@@ -1,8 +1,16 @@
 venv/
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
 data/
 outputs/
 .DS_Store
 *.egg-info/
+
+# Data files (too large for GitHub)
+*.csv
+*.zip
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
