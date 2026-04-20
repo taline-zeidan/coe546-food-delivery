@@ -1,11 +1,8 @@
 venv/
-data/
-outputs/
 .DS_Store
 *.egg-info/
-
+data/
 # Data files (too large for GitHub)
-*.csv
 *.zip
 
 # Jupyter checkpoints
