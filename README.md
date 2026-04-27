@@ -1,4 +1,4 @@
-# User Behavior Prediction — Team Project
+# User Behavior Prediction
 
 ## What is this?
 
